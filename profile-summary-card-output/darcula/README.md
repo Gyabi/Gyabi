@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Gyabi/Gyabi/main/profile-summary-card-output/darcula/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Gyabi/Gyabi/main/profile-summary-card-output/darcula/4-productive-time.svg)
-```
-
-    
